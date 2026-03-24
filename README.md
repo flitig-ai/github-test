@@ -1,2 +1,3 @@
 # github-test
-Testing GitHub integration from Abundly agents
+
+This repo is for testing GitHub integration from Abundly agents.

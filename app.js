@@ -24,3 +24,9 @@ function nextJoke() {
 }
 
 showJoke();
+
+function toggleDarkMode() {
+    document.body.classList.toggle('dark');
+    const btn = document.getElementById('dark-mode-btn');
+    btn.textContent = document.body.classList.contains('dark') ? '☀️ Light Mode' : '🌙 Dark Mode';
+}

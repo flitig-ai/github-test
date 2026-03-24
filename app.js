@@ -3,7 +3,10 @@ const jokes = [
     { setup: "What do you call a fake noodle?", punchline: "An impasta!" },
     { setup: "Why did the scarecrow win an award?", punchline: "He was outstanding in his field!" },
     { setup: "What do you call a bear with no teeth?", punchline: "A gummy bear!" },
-    { setup: "Why don't eggs tell jokes?", punchline: "They'd crack each other up!" }
+    { setup: "Why don't eggs tell jokes?", punchline: "They'd crack each other up!" },
+    { setup: "What do you call a dog that does magic?", punchline: "A Labracadabrador!" },
+    { setup: "Why did the bicycle fall over?", punchline: "Because it was two-tired!" },
+    { setup: "What do you call cheese that isn't yours?", punchline: "Nacho cheese!" }
 ];
 
 let currentJoke = 0;

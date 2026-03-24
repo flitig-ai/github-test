@@ -24,3 +24,5 @@ function nextJoke() {
 }
 
 showJoke();
+
+document.getElementById('joke-count').textContent = jokes.length;

@@ -1,6 +1,6 @@
 const jokes = [
     { setup: "Why don't scientists trust atoms?", punchline: "Because they make up everything!" },
-    { setup: "What doyoyu call a fake noodle?", punchline: "An impasta!" },
+    { setup: "What do you call a fake noodle?", punchline: "An impasta!" },
     { setup: "Why did the scarecrow win an award?", punchline: "He was outstanding in his field!" },
     { setup: "What do you call a bear with no teeth?", punchline: "A gummy bear!" },
     { setup: "Why don't eggs tell jokes?", punchline: "They'd crack each other up!" },
@@ -33,6 +33,3 @@ function toggleDarkMode() {
     const btn = document.getElementById('dark-mode-btn');
     btn.textContent = document.body.classList.contains('dark') ? '☀️ Light Mode' : '🌙 Dark Mode';
 }
-
-// eval-test-line
-// eval-test-line

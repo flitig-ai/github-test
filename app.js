@@ -36,3 +36,4 @@ function toggleDarkMode() {
 // eval-test-line
 // eval-test-line
 // eval-test-line
+// multi-edit-test

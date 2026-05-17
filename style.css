@@ -63,25 +63,3 @@ button {
 button:hover {
     background: #d97706;
 }
-
-body.dark {
-    background: #1f2937;
-    color: #f9fafb;
-}
-
-body.dark .joke-card {
-    background: #374151;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
-}
-
-body.dark .punchline {
-    color: #fbbf24;
-}
-
-body.dark button {
-    background: #d97706;
-}
-
-body.dark button:hover {
-    background: #b45309;
-}
